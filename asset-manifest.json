@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/monsterWikipedia/static/css/main.7f854cda.css",
+    "main.js": "/monsterWikipedia/static/js/main.4c293955.js",
+    "static/js/787.28cb0dcd.chunk.js": "/monsterWikipedia/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/monsterWikipedia/index.html",
+    "main.7f854cda.css.map": "/monsterWikipedia/static/css/main.7f854cda.css.map",
+    "main.4c293955.js.map": "/monsterWikipedia/static/js/main.4c293955.js.map",
+    "787.28cb0dcd.chunk.js.map": "/monsterWikipedia/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7f854cda.css",
+    "static/js/main.4c293955.js"
+  ]
+}
